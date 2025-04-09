@@ -1,6 +1,6 @@
 [
   {
-    "projects": "Project A",
+    "name": "Project A",
     "age": 38,
     "country": "USA",
     "occupation": "Devops Engineer",
