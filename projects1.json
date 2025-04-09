@@ -1,0 +1,23 @@
+[
+  {
+    "projects": "Ispra",
+    "age": 38,
+    "country": "USA",
+    "occupation": "Devops Engineer",
+    "salary": 3000
+  },
+  {
+    "name": "Project B",
+    "age": 27,
+    "country": "USA",
+    "occupation": "Software Engineer",
+    "salary": 2300
+  },
+  {
+    "name": "Project C",
+    "age": 32,
+    "country": "USA",
+    "occupation": "Software Engineer",
+    "salary": 3500
+  }
+]
