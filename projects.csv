@@ -1,4 +1,4 @@
-project_id,project_name,progress_percentage
-1,Projekt A,75
-2,Projekt B,50
-3,Projekt C,90
+project,completed,incompleted
+Projekt A,75,25
+Projekt B,50,50
+Projekt C,90,10
